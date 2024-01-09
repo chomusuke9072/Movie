@@ -1,0 +1,28 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+.header-bundle {
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    display: flex;
+    flex-direction: low;
+    justify-content: center;
+}
+
+.form-bundle > button {
+    background-color: white;
+    color: black;
+}
+
+input {
+    background-color: white;
+    color: black;
+}
+
+
+
